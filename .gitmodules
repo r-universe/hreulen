@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "gamboostMSM"]
-	path = gamboostMSM
-	url = https://github.com/cran/gamboostMSM
 [submodule "penMSM"]
 	path = penMSM
 	url = https://github.com/cran/penMSM
